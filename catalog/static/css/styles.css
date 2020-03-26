@@ -1,0 +1,14 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    color: rgb(144,202,249);
+    background-color: rgb(73,37,73);
+}
+
+a {
+    color: cyan;
+}
